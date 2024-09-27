@@ -1,0 +1,11 @@
+﻿2 La tabla del número x desde el 1 hasta el 10
+
+Inicio 
+
+Escribir "Introduce un número"
+Lee x
+Y = 0
+Para Y hasta (10)
+	Escribir (x*(Y + 1))
+
+Fin
