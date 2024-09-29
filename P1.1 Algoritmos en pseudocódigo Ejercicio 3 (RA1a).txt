@@ -1,0 +1,15 @@
+﻿3 Si un número x es primo
+
+Indice
+
+Escribir "Introduce un número"
+Leer T
+R = 1 
+Mientras (R + 1)
+	T % R
+	Si T % R == 0
+		El número no es primo
+	Si no 
+		El número es primo 
+Fin
+

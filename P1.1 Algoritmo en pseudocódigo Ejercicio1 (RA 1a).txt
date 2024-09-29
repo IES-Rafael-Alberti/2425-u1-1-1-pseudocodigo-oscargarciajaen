@@ -1,0 +1,14 @@
+﻿1 Si un número x es par o impar 
+
+Inicio 
+
+Escribir "introduce un número"
+Leer x
+Si x no es un número 
+Finalizar
+Si x Mod 2 = 0
+	Es par 
+Si no 
+	Es impar
+
+Fin
